@@ -3,7 +3,5 @@ class Author
 
   def initialize
     @name = name
-    @title = title
-    @post = post
   end
 end
